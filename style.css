@@ -1,0 +1,21 @@
+.btn-danger{	
+		background-color:blue;
+}
+
+
+.btn-primary {
+
+	background-color:yellow;
+}
+
+
+.btn-danger:hover{
+	background-color:yellow;
+}
+
+
+.col{
+
+		background-color: grey;
+		border: 2px solid black;
+	}
